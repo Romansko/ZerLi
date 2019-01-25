@@ -8,11 +8,11 @@ Project link: https://github.com/Romansko/ZerLi.git
 Team name: Los Socios.
 
 Team Members: 
-- Avner (colombusAH)
-- Daniel (elezra73)
-- Eden (edeneden52)
-- Linoy (linoyi)
-- Roman (romansko)
+- Avner ([colombusAH](https://github.com/colombusAH))
+- Daniel ([elezra73](https://github.com/elezra73))
+- Eden ([edeneden52](https://github.com/edeneden52))
+- Linoy ([linoyi](https://github.com/linoyi))
+- Roman ([romansko](https://github.com/romansko))
 
 
 # Server.jar instructions:
